@@ -4,8 +4,8 @@ import { normalize } from "styled-normalize";
 export const GlobalStyle = createGlobalStyle`
   ${normalize}
   :root {
-    --color-background-dark: #040F26;
-    --color-background-light: #330A39;
+    --color-background-dark: #1D2021;
+    --color-background-light: #202426;
     --color-text: #EBF4F7;
     --purple-light: #6C63FF;
     --purple-dark: #39447A;
